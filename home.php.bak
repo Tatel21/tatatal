@@ -23,7 +23,7 @@
     <div id="navigation">
       <ul>
         <li><a href="#" class="active">Home</a></li>
-        <li><a href="login-form/index.php">Logout</a></li>
+        <li><a href="login-form/index.html">Logout</a></li>
         <li><a href="">Account</a></li>
         <li><a href="#">Cart</a></li>
         <li><a href="#">About</a></li>
